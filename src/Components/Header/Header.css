@@ -1,0 +1,19 @@
+.header{
+    background-color: lightgrey;
+    margin-top: -25px;
+    padding: 10px;
+}
+
+.p1{
+    font-size: 80px;
+    color: rgb(187, 7, 187);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+}
+
+.p2{
+    font-size: 60px;
+    color: rgba(59, 59, 240, 0.911);
+    font-family:'Times New Roman', Times, serif;
+    margin: 20px;
+}

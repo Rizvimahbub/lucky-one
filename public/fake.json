@@ -1,0 +1,65 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Apple Watch Series 3",
+      "price": 320,
+      "ratings":4.5,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/42-alu-silver-sport-white-nc-s3-grid?wid=540&hei=550&fmt=jpeg&qlt=80&.v=1594259786000"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "Apple Watch Series 4",
+      "price": 350,
+      "ratings":4.6,
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/FU6K2?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1555353648279"
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "Apple Watch Series 5",
+      "price": 370,
+      "ratings":4.8,
+      "img": "https://cdn.shopify.com/s/files/1/1706/9177/products/appw.jpg?v=1613634667"
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "name": "Apple Watch Series 6",
+      "price": 380,
+      "ratings":4.5,
+      "img": "https://m.media-amazon.com/images/I/81ww7fpkNHL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "name": "Apple Watch Series 7",
+      "price": 400,
+      "ratings":4.9,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MKUE3_VW_34FR+watch-41-alum-blue-nc-7s_VW_34FR_WF_CO?wid=1400&hei=1400&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1632171048000%2C1631661090000"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "name": "Samsung Galaxy Watch",
+      "price": 300,
+      "ratings":4.7,
+      "img": "https://i5.walmartimages.com/asr/fd4ac977-2091-48d8-9c42-e4bd76c25860_2.1e08fbcdac48c4ccfbef70130eef5fbf.png"
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "name": "Samsung Galaxy Watch 2",
+      "price": 320,
+      "ratings":4.5,
+      "img": "https://www.powerplanetonline.com/cdnassets/samsung_galaxy_watch_active_2_40mm_aluminio_r820_negro_aqua_01_l.jpg"
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "name": "Samsung Galaxy Watch 4",
+      "price": 340,
+      "ratings":4.8,
+      "img": "https://www.powerplanetonline.com/cdnassets/samsung_galaxy_watch4_classic_46mm_lte_01_negro_l.jpg"
+    },
+    {
+      "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+      "name": "Samsung Galaxy Watch 5",
+      "price": 360,
+      "ratings":4.7,
+      "img": "https://i.expansys.net/img/b/362847/samsung-galaxy-watch-4-40mm.jpg"
+    }
+]
